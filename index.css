@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+}
+
+.card img {
+    width: 50%;
+    border: none;
+    border-radius: 50%;
+}
+
+.card:hover {
+    cursor: pointer;
+    background-color: #FFCA40;
+    transition: 400ms;
+}
+
+.product img {
+    width: 50%;
+    border: none;
+    border-radius: 50%;
+}
+
+
+.product:hover {
+    cursor: pointer;
+    background-color: #FFCA40;
+    transition: 400ms;
+}
+
+.casheir{
+    height: 100%;
+}
+.casheir img{
+    width: 50%;
+    border: none;
+    border-radius: 50%;
+}
+
+
+#cashier-items img{
+    width: 50%;
+    border: none;
+    border-radius: 50%;
+}
